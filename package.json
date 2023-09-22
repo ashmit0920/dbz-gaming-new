@@ -1,0 +1,21 @@
+{
+  "name": "gaming-website-template-main",
+  "version": "1.0.0",
+  "description": "attractive gaming website template with unique animation",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ashmit0920/dbz-gaming-new.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ashmit0920/dbz-gaming-new/issues"
+  },
+  "homepage": "https://github.com/ashmit0920/dbz-gaming-new#readme"
+}
